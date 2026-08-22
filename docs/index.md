@@ -1,3 +1,13 @@
+## 2026年08月23日のニュース
+
+- [スマホ依存からの脱却で中国でE Ink端末が一大ブームに　知恵と工夫で生まれつつあるE Ink搭載ガジェットの新文化 (1/2)](https://ascii.jp/elem/000/004/428/4428609/)
+- [Microsoft Entra ID アプリケーション開発入門](https://zenn.dev/karamem0/books/505df6779ec89a)
+- [目指すは、日本発IPで海外売上20兆円　経産省が新戦略を発表　「ものがたり大国5カ年計画」](https://www.itmedia.co.jp/news/article/2608/21/2000000696/)
+- [Claude Code／Codexに中～大規模開発を任せるためのタスク管理 - Qiita](https://qiita.com/Y-Y-dev/items/d526fb7cdbe35a3f9384?__readwiseLocation=)
+- [古い「Android」端末を「Raspberry Pi」の代わりにする方法](https://japan.zdnet.com/article/35251631/)
+
+---
+
 ## 2026年08月22日のニュース
 
 - [Anthropic、「Claude」の学習サイト「Claude Academy」を無償開設／AIの基礎から「Code」「Cowork」まで。興味や学習状況に応じてさまざまなコースを提案](https://forest.watch.impress.co.jp/docs/news/2134400.html)
