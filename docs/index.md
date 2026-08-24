@@ -1,3 +1,13 @@
+## 2026年08月25日のニュース
+
+- [アンソロピック、AIの使い方を学べる「Claude Academy」　日本語対応](https://www.watch.impress.co.jp/docs/news/2134964.html)
+- [優秀なエンジニアが書くDesign Docは何が違うのか? - pospomeのプログラミング日記](https://www.pospome.work/entry/2026/08/24/223309)
+- [「うるう秒」27年に事実上廃止へ　自転とのずれ「1時間」まで容認　10月に国際会議で採決](https://www.itmedia.co.jp/news/article/2608/24/2000000718/)
+- [“SQL”で事件の真相に迫るミステリーゲーム『Ghost in the SQL Data』が面白そう。データベースを操作するプログラミング言語を操り、事件の証拠を特定する](https://news.denfaminicogamer.jp/news/260824f)
+- [なぜいま30Bクラスのオープンモデルが“熱い”のか　「27BパラメータでOpus 4.6超え」も](https://www.itmedia.co.jp/aiplus/article/2608/24/2000000723/)
+
+---
+
 ## 2026年08月24日のニュース
 
 - [AIに書かせたら、前より休めなくなった｜松浦勝人](https://note.com/maxmatsuura/n/ne59969fd6e71)
