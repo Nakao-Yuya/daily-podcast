@@ -3,14 +3,14 @@
   <channel>
     <title>毎朝のITトレンド</title>
     <description>最新のITニュースを自動でお届けします。</description>
-    <link>https://oh-nakao.github.io/daily-podcast/</link>
+    <link>https://Nakao-Yuya.github.io/daily-podcast/</link>
     <language>ja</language>
     <item>
       <title>2026年08月25日のニュース</title>
-      <description><![CDATA[<h2>2026年08月25日のニュース引用元</h2><ul><li><a href="https://www.watch.impress.co.jp/docs/news/2134964.html">アンソロピック、AIの使い方を学べる「Claude Academy」　日本語対応</a></li><li><a href="https://www.pospome.work/entry/2026/08/24/223309">優秀なエンジニアが書くDesign Docは何が違うのか? - pospomeのプログラミング日記</a></li><li><a href="https://www.itmedia.co.jp/news/article/2608/24/2000000718/">「うるう秒」27年に事実上廃止へ　自転とのずれ「1時間」まで容認　10月に国際会議で採決</a></li><li><a href="https://news.denfaminicogamer.jp/news/260824f">“SQL”で事件の真相に迫るミステリーゲーム『Ghost in the SQL Data』が面白そう。データベースを操作するプログラミング言語を操り、事件の証拠を特定する</a></li><li><a href="https://www.itmedia.co.jp/aiplus/article/2608/24/2000000723/">なぜいま30Bクラスのオープンモデルが“熱い”のか　「27BパラメータでOpus 4.6超え」も</a></li></ul>]]></description>
-      <enclosure url="https://oh-nakao.github.io/daily-podcast/audio/episode_20260825.mp3" type="audio/mpeg" />
-      <pubDate>Mon, 24 Aug 2026 20:16:49 -0000</pubDate>
-      <guid>https://oh-nakao.github.io/daily-podcast/audio/episode_20260825.mp3</guid>
+      <description><![CDATA[<h2>2026年08月25日のニュース引用元</h2><ul><li><a href="https://ascii.jp/elem/000/004/428/4428658/">「うわ、すげえ！」Unreal EngineをCodexに操作させたら制作の常識が変わった (1/5)</a></li><li><a href="https://povo.jp/news/newsrelease/20260825_01/">povo、「5G SA(スタンドアローン)」サービスを提供開始</a></li><li><a href="https://www.itmedia.co.jp/news/article/2608/25/2000000732/">新「マイナアプリ」きょうスタート　「デジタル認証アプリ」統合、水色→ピンクに</a></li><li><a href="https://comamoca.dev/blog/2026-08-24-tech-communities-im-following-recently/">最近見てる技術コミュニティについて</a></li><li><a href="https://www.itmedia.co.jp/news/article/2608/24/2000000730/">「まるで奇行種」――とある人型ロボの爆走フォームが話題に　中国のロボット運動会400m走で優勝</a></li></ul>]]></description>
+      <enclosure url="https://Nakao-Yuya.github.io/daily-podcast/audio/episode_20260825.mp3" type="audio/mpeg" />
+      <pubDate>Tue, 25 Aug 2026 09:21:13 -0000</pubDate>
+      <guid>https://Nakao-Yuya.github.io/daily-podcast/audio/episode_20260825.mp3</guid>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,15 @@
 ## 2026年08月25日のニュース
 
+- [「うわ、すげえ！」Unreal EngineをCodexに操作させたら制作の常識が変わった (1/5)](https://ascii.jp/elem/000/004/428/4428658/)
+- [povo、「5G SA(スタンドアローン)」サービスを提供開始](https://povo.jp/news/newsrelease/20260825_01/)
+- [新「マイナアプリ」きょうスタート　「デジタル認証アプリ」統合、水色→ピンクに](https://www.itmedia.co.jp/news/article/2608/25/2000000732/)
+- [最近見てる技術コミュニティについて](https://comamoca.dev/blog/2026-08-24-tech-communities-im-following-recently/)
+- [「まるで奇行種」――とある人型ロボの爆走フォームが話題に　中国のロボット運動会400m走で優勝](https://www.itmedia.co.jp/news/article/2608/24/2000000730/)
+
+---
+
+## 2026年08月25日のニュース
+
 - [アンソロピック、AIの使い方を学べる「Claude Academy」　日本語対応](https://www.watch.impress.co.jp/docs/news/2134964.html)
 - [優秀なエンジニアが書くDesign Docは何が違うのか? - pospomeのプログラミング日記](https://www.pospome.work/entry/2026/08/24/223309)
 - [「うるう秒」27年に事実上廃止へ　自転とのずれ「1時間」まで容認　10月に国際会議で採決](https://www.itmedia.co.jp/news/article/2608/24/2000000718/)
