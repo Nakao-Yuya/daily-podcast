@@ -98,7 +98,7 @@ def update_rss(news_list, mp3_filename, today_str):
     """ポッドキャスト用RSS(feed.xml)の生成とShow Notesの追加"""
     rss_file = "docs/feed.xml"
 
-    base_url = "https://oh-nakao.github.io/daily-podcast/" 
+    base_url = "https://Nakao-Yuya.github.io/daily-podcast/" 
     audio_url = f"{base_url}audio/{mp3_filename}"
     mp3_path = f"docs/audio/{mp3_filename}"
     file_size = os.path.getsize(mp3_path)
