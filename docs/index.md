@@ -1,3 +1,13 @@
+## 2026年08月27日のニュース
+
+- [ローカルでの開発やめませんか？Claude Code / Cursorで開発の8割をクラウドに移した話](https://zenn.dev/sc30gsw/articles/953334f11df507)
+- [「オルカン高配当」登場　eMAXIS高配当全世界株式　9月30日から　注意点も](https://japan.cnet.com/article/35251950/)
+- [「ChatGPT」の無償プランにも予定済みタスクが開放 ～Plus/Proは「Webhook」に対応／「Gmail」「Slack」「GitHub」などのイベントをトリガー、タスクの共有も可能に](https://forest.watch.impress.co.jp/docs/news/2135731.html)
+- [最後のYAPC::Japanと聞いたのでYAPC::Asia/JPAの（私）歴史](https://lestrrat.github.io/blog/posts/2026-08-26-45d27dc6e8c7/index.html)
+- [OH! NAMAE DOMAIN - ドメイン取得サービス](https://project.activetk.jp/dark-domain-shop/)
+
+---
+
 ## 2026年08月25日のニュース
 
 - [「うわ、すげえ！」Unreal EngineをCodexに操作させたら制作の常識が変わった (1/5)](https://ascii.jp/elem/000/004/428/4428658/)
