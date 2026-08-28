@@ -1,3 +1,13 @@
+## 2026年08月28日のニュース
+
+- [AI が作る「ドット絵風」を本物のドット絵に変換する Web ツール「Pixel Refiner」を作りました](https://zenn.dev/happy_onigiri/articles/1a0601d2afec2c)
+- [AI駆動開発を組織で促すために](https://speakerdeck.com/lycorptech_jp/aidlc-aidd-workshop)
+- [OpenAIの暴走AI、1200体が結託　「仲間のため｣とシステムに突撃要求 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN2704N0X20C26A8000000/)
+- [[石川温の「スマホ業界 Watch」] なぜ「povo 5G SAで圏外」に　"端末非対応”ではなくKDDIの設定ミス](https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2136330.html)
+- [ITエンジニア必読書『徳丸本』が8年ぶりの改訂へ　「第3版」のポイントを筆者が解説](https://atmarkit.itmedia.co.jp/ait/articles/2608/28/news018.html)
+
+---
+
 ## 2026年08月27日のニュース
 
 - [ローカルでの開発やめませんか？Claude Code / Cursorで開発の8割をクラウドに移した話](https://zenn.dev/sc30gsw/articles/953334f11df507)
