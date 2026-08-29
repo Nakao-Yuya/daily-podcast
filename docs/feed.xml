@@ -6,11 +6,11 @@
     <link>https://Nakao-Yuya.github.io/daily-podcast/</link>
     <language>ja</language>
     <item>
-      <title>2026年08月29日のニュース</title>
-      <description><![CDATA[<h2>2026年08月29日のニュース引用元</h2><ul><li><a href="https://speakerdeck.com/minorun365/claude-code-de-kaihatsu-igai-no-gyoumu-mo-ka-shiyou">Claude Codeで開発以外の業務も爆速化しよう！</a></li><li><a href="https://speakerdeck.com/opelab/20260827-ssmjp-operation-procedure-update">「ミスを許さない手順書」を作ってみた 〜 個人的にはこれ以上できることはあまりなさそう/20260827-ssmjp-operation-procedure-update</a></li><li><a href="https://gigazine.net/news/20260828-cloudflare-dns-cache-optimization/">Cloudflareが1.1.1.1のDNSキャッシュを数十バイト単位で削り込んで100TBのメモリを節約</a></li><li><a href="https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released">htmx 4.0.0 has been released!</a></li><li><a href="https://zenn.dev/rhosokawa/articles/d0a958c17c2820">並行開発に Orca がめちゃ便利</a></li></ul>]]></description>
-      <enclosure url="https://Nakao-Yuya.github.io/daily-podcast/audio/episode_20260829.mp3" type="audio/mpeg" />
-      <pubDate>Sat, 29 Aug 2026 02:32:42 -0000</pubDate>
-      <guid>https://Nakao-Yuya.github.io/daily-podcast/audio/episode_20260829.mp3</guid>
+      <title>2026年08月30日のニュース</title>
+      <description><![CDATA[<h2>2026年08月30日のニュース引用元</h2><ul><li><a href="https://qiita.com/ktdatascience/items/02b6b45e2ca7d34ad146">ベテランエンジニアのPRレビュー187件を分類してみたら、バグは5件に1件しか指摘されていなかった - Qiita</a></li><li><a href="https://ktrmnm.jp/blog/2026-08-29-what-is-ai-ism-jp/">AI語に親しむ</a></li><li><a href="https://zenn.dev/sato_frontend/articles/1a85841505b9bb">Claude Codeの設計詰めスキル『grilling』の紹介</a></li><li><a href="https://type.jp/et/feature/31605/">「頭脳だけで正解を探したら、AIに大敗する」川邊健太郎が旅と“ヒュー！”に見いだすもの - エンジニアtype | 転職type</a></li><li><a href="https://atmarkit.itmedia.co.jp/ait/articles/2608/28/news020.html">ローカルLLMの壁を打ち破る「Unsloth Desktop」登場！　画像生成・コード実行・API化を1つのアプリに統合</a></li></ul>]]></description>
+      <enclosure url="https://Nakao-Yuya.github.io/daily-podcast/audio/episode_20260830.mp3" type="audio/mpeg" />
+      <pubDate>Sat, 29 Aug 2026 22:05:17 -0000</pubDate>
+      <guid>https://Nakao-Yuya.github.io/daily-podcast/audio/episode_20260830.mp3</guid>
     </item>
   </channel>
 </rss>

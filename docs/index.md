@@ -1,3 +1,13 @@
+## 2026年08月30日のニュース
+
+- [ベテランエンジニアのPRレビュー187件を分類してみたら、バグは5件に1件しか指摘されていなかった - Qiita](https://qiita.com/ktdatascience/items/02b6b45e2ca7d34ad146)
+- [AI語に親しむ](https://ktrmnm.jp/blog/2026-08-29-what-is-ai-ism-jp/)
+- [Claude Codeの設計詰めスキル『grilling』の紹介](https://zenn.dev/sato_frontend/articles/1a85841505b9bb)
+- [「頭脳だけで正解を探したら、AIに大敗する」川邊健太郎が旅と“ヒュー！”に見いだすもの - エンジニアtype | 転職type](https://type.jp/et/feature/31605/)
+- [ローカルLLMの壁を打ち破る「Unsloth Desktop」登場！　画像生成・コード実行・API化を1つのアプリに統合](https://atmarkit.itmedia.co.jp/ait/articles/2608/28/news020.html)
+
+---
+
 ## 2026年08月29日のニュース
 
 - [Claude Codeで開発以外の業務も爆速化しよう！](https://speakerdeck.com/minorun365/claude-code-de-kaihatsu-igai-no-gyoumu-mo-ka-shiyou)
