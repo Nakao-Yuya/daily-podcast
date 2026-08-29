@@ -1,3 +1,13 @@
+## 2026年08月29日のニュース
+
+- [Claude Codeで開発以外の業務も爆速化しよう！](https://speakerdeck.com/minorun365/claude-code-de-kaihatsu-igai-no-gyoumu-mo-ka-shiyou)
+- [「ミスを許さない手順書」を作ってみた 〜 個人的にはこれ以上できることはあまりなさそう/20260827-ssmjp-operation-procedure-update](https://speakerdeck.com/opelab/20260827-ssmjp-operation-procedure-update)
+- [Cloudflareが1.1.1.1のDNSキャッシュを数十バイト単位で削り込んで100TBのメモリを節約](https://gigazine.net/news/20260828-cloudflare-dns-cache-optimization/)
+- [htmx 4.0.0 has been released!](https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released)
+- [並行開発に Orca がめちゃ便利](https://zenn.dev/rhosokawa/articles/d0a958c17c2820)
+
+---
+
 ## 2026年08月28日のニュース
 
 - [AI が作る「ドット絵風」を本物のドット絵に変換する Web ツール「Pixel Refiner」を作りました](https://zenn.dev/happy_onigiri/articles/1a0601d2afec2c)
