@@ -1,3 +1,13 @@
+## 2026年09月01日のニュース
+
+- [ティム・クック氏、Apple CEOとしての最後の日にメッセージ　「一生に一度の特権だった」](https://www.itmedia.co.jp/news/article/2609/01/2000000996/)
+- [202608個人的claude code設定](https://zenn.dev/kawarimidoll/articles/d3f1a7542de71a)
+- [『OpenTelemetryではじめる テレメトリーサンプリング』という本が出版されました #otelsampling - YAMAGUCHI::weblog](https://ymotongpoo.hatenablog.com/entry/otel-sampling)
+- [ハーネスエンジニアリングとは何か——"盛れば効く"のかを確かめる - 電通総研 テックブログ](https://tech.dentsusoken.com/entry/2026/08/31/%E3%83%8F%E3%83%BC%E3%83%8D%E3%82%B9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%E2%80%94%E2%80%94%22%E7%9B%9B%E3%82%8C%E3%81%B0%E5%8A%B9)
+- [LLMのカスのコンサル問題 - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ](https://joisino.hatenablog.com/entry/kasu)
+
+---
+
 ## 2026年08月31日のニュース
 
 - [参議院のホームページがデザインリニューアルされたが、AIで丸ごと作ったか？という出来栄えで困惑する→落札価格が30万を切っている案件だった](https://togetter.com/li/2739144)
