@@ -1,3 +1,13 @@
+## 2026年09月02日のニュース
+
+- [Google提唱の「SKILL.state」について。プロンプトに型の概念を導入](https://zenn.dev/knowledgesense/articles/ad123283bdea26)
+- [何を作ったかより何を変えたかで自分を語れよ!!! - 書籍『Outcomes Over Output』が目標設定の悩みを解消してくれた｜まざっち](https://note.com/mazamachi/n/nca12be99a8ac)
+- [原宿に現れた「歩くゴミ箱」、正体は学生発の広告サービス　「良いアイデア」とSNSで話題](https://www.itmedia.co.jp/news/article/2609/01/2000001040/)
+- [社内限定サービスの認証を Google Workspace でサクッと作る](https://zenn.dev/dress_code/articles/6134e6bd5e46c6)
+- [「ミート・プロキシ」って何？…AIの出力をそのまま送ってくる人を指す新語が話題 | Business Insider Japan](https://www.businessinsider.jp/article/2609-meat-proxy-tech-new-term-ai/)
+
+---
+
 ## 2026年09月01日のニュース
 
 - [ティム・クック氏、Apple CEOとしての最後の日にメッセージ　「一生に一度の特権だった」](https://www.itmedia.co.jp/news/article/2609/01/2000000996/)
