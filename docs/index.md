@@ -1,3 +1,13 @@
+## 2026年09月03日のニュース
+
+- [FREE-Wi.Fi: 無料Wi-Fiの登録に使える捨てメアド](https://free-wi.fi/)
+- [Anthropic公式のClaude Code講座で学んだ「4つのD」](https://zenn.dev/karamage/articles/2ef2c2aea7dfdf)
+- [Aurora DSQL の現状 2026 (Rails の場合)](https://diary.sorah.jp/2026/09/03/dsql-in-action)
+- [信頼できるAI基盤の実証 — オフライン閉域環境でAIは組織の右腕になれるか — | デジタル人材の育成 | IPA 独立行政法人 情報処理推進機構](https://www.ipa.go.jp/jinzai/ics/core_human_resource/final_project/2026/pm_ai.html)
+- [ローカルLLMでどこまでコードが書けるか -LLM基礎知識 /　How much code can be written on a local LLM - fundamental knowledge](https://speakerdeck.com/kishida/how-much-code-can-be-written-on-a-local-llm-fundamental-knowledge)
+
+---
+
 ## 2026年09月02日のニュース
 
 - [Google提唱の「SKILL.state」について。プロンプトに型の概念を導入](https://zenn.dev/knowledgesense/articles/ad123283bdea26)
