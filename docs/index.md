@@ -1,3 +1,13 @@
+## 2026年09月05日のニュース
+
+- [AI をつかってみて思うこと (2026年9月4日)](https://member.ipmu.jp/yuji.tachikawa/misc/ai2026.html)
+- [いいかげんJRPGは「戦闘システム」から脱却しろよ](https://anond.hatelabo.jp/20260904132526)
+- [AIに過剰に肯定された人の予後 - orangestar2](https://orangestar2.hatenadiary.com/entry/2026/09/04/210407)
+- [新宿駅に「ごみ箱ロボット」出現　改札内を自動巡回　JR東が実証実験](https://www.itmedia.co.jp/news/article/2609/04/2000001199/)
+- [エンジニア面接で「開発力」を見るために聞いていること](https://tech.anotherball.com/ja/2026-09-04-interview-product-development-skills/)
+
+---
+
 ## 2026年09月03日のニュース
 
 - [FREE-Wi.Fi: 無料Wi-Fiの登録に使える捨てメアド](https://free-wi.fi/)
