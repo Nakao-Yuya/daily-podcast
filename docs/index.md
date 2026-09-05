@@ -1,3 +1,13 @@
+## 2026年09月06日のニュース
+
+- [リモートチームなら通話の音質に命をかけて欲しい - モヒカン技術ブログ](https://blog.pinkumohikan.com/entry/2026/09/05/150757)
+- [サイバーセキュリティ報告書 | 東芝 サイバーセキュリティ | 東芝](https://www.global.toshiba/jp/cybersecurity/corporate/report.html)
+- [Claude Code の Rules はもう死んでいる - kawasin73のブログ](https://kawasin73.hatenablog.com/entry/2026/09/05/092056)
+- [.gitignore everything by default](https://packagemain.tech/p/gitignore-everything-by-default)
+- [無料でPDF・電子書籍・Word文書・テキストファイルなどからローカルAIを使って検索＆要約ができる「DocuBrowser」、個人情報の認識も可能](https://gigazine.net/news/20260905-docubrowser/)
+
+---
+
 ## 2026年09月05日のニュース
 
 - [AI をつかってみて思うこと (2026年9月4日)](https://member.ipmu.jp/yuji.tachikawa/misc/ai2026.html)
