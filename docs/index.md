@@ -1,3 +1,13 @@
+## 2026年09月07日のニュース
+
+- [移住者から見た新潟②1泊2日の最強新潟市内観光モデルルート｜金子萌｜介護現場・自治体のDX×AI@日経新聞「向き合う」連載中](https://note.com/omohibito_moe/n/n643dc02f8c32)
+- [AIで作った「100点の理想」が、プロとの打ち合わせで50点になっていく理由](https://rocketnews24.com/2026/09/06/2798277/)
+- [デジタル庁は、デザインシステムをAIに読ませ始めた。Markdown配布が示すこと｜How many designs](https://note.com/howmanydesigns/n/na108d69827ce)
+- [VS Code誕生から現在までの物語「The Story of VS Code」YouTubeで公開。作者のエリック・ガンマ氏はなぜIBMからMSへ移籍してVS Codeを作ることになったか](https://www.publickey1.jp/blog/26/vs_codethe_story_of_vs_codeyoutubeibmmsvs_code.html)
+- [DO-GU](https://do-gu.niwa.dev/)
+
+---
+
 ## 2026年09月06日のニュース
 
 - [リモートチームなら通話の音質に命をかけて欲しい - モヒカン技術ブログ](https://blog.pinkumohikan.com/entry/2026/09/05/150757)
