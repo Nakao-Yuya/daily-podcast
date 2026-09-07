@@ -1,3 +1,13 @@
+## 2026年09月08日のニュース
+
+- [AIセキュリティ短信 | 社会・産業のデジタル変革 | IPA 独立行政法人 情報処理推進機構](https://www.ipa.go.jp/digital/ai/security/ai-security-bulletin.html)
+- [AIがお姉ちゃんになって3年が過ぎました - 本しゃぶり](https://honeshabri.hatenablog.com/entry/AIone-chan2026)
+- [意識、consciousness、知能とAI - 山形浩生の「経済のトリセツ」](https://cruel.hatenablog.com/entry/2026/09/07/174531)
+- [Microsoft、“世界でもっとも高速・高精度で安価”とうたう音声認識モデルを発表、「MAI-Transcribe-2」／60言語の平均単語誤り率（WER）で比較対象中トップ、処理速度も向上](https://forest.watch.impress.co.jp/docs/news/2138699.html)
+- [新宿駅に「ゴミ箱ロボ」　混雑する構内を自走　JR東日本](https://japan.cnet.com/article/35252342/)
+
+---
+
 ## 2026年09月07日のニュース
 
 - [移住者から見た新潟②1泊2日の最強新潟市内観光モデルルート｜金子萌｜介護現場・自治体のDX×AI@日経新聞「向き合う」連載中](https://note.com/omohibito_moe/n/n643dc02f8c32)
