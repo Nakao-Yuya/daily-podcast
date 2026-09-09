@@ -1,3 +1,13 @@
+## 2026年09月10日のニュース
+
+- [プロジェクトマネジメントの教科書（内製チーム向け）](https://zenn.dev/tan_go238/books/project-management-textbook)
+- [「iPhone Duo」ついに登場。Apple初7.6型折りたたみで36万円強](https://pc.watch.impress.co.jp/docs/news/2139675.html)
+- [「AIは10年以内に我々全員を殺す」　アンソロピックの研究者が「企業は無責任」と退社](https://www.sankei.com/article/20260909-YXTSWA7BWZA6VI3SCMGOQ3YMSM/)
+- [大半の人に必要無いAndroidアプリ7選](https://anond.hatelabo.jp/20260909175643)
+- [「菜の花がおかしい」――イラストレーター制作うたうマラソン大会ポスターに指摘相次ぐ　事務局がAI使用明かす【訂正あり】](https://www.itmedia.co.jp/news/article/2609/09/2000001308/)
+
+---
+
 ## 2026年09月08日のニュース
 
 - [AIセキュリティ短信 | 社会・産業のデジタル変革 | IPA 独立行政法人 情報処理推進機構](https://www.ipa.go.jp/digital/ai/security/ai-security-bulletin.html)
