@@ -1,3 +1,13 @@
+## 2026年09月11日のニュース
+
+- [人生をあきらめたら希死念慮がなくなった](https://anond.hatelabo.jp/20260910154808)
+- [「あなたのブックマーカー図鑑」公開](https://anond.hatelabo.jp/20260910215309)
+- [商用も無料のPDF編集ソフト「PDF MARIN」が登場、黒く塗るだけではない本物の墨消しに対応／「Claude Code」と連携するAI機能も開発中](https://forest.watch.impress.co.jp/docs/news/2139791.html)
+- [もしMicrosoftがスマホを出していたら覇権を取れていたはず、互換性や連携など負ける理由を探す方が難しい…「かつては変態端末がたくさんあったのにどうしてこうなった」](https://togetter.com/li/2743900)
+- [さくらインターネット、「さくらのレンタルサーバ」および販売管理システムへの不正アクセスについて調査結果を公開　「さくらのレンタルサーバ」不正アクセス対象は951アカウントに拡大](https://internet.watch.impress.co.jp/docs/news/2139863.html)
+
+---
+
 ## 2026年09月10日のニュース
 
 - [プロジェクトマネジメントの教科書（内製チーム向け）](https://zenn.dev/tan_go238/books/project-management-textbook)
