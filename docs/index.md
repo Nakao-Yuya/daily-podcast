@@ -1,3 +1,13 @@
+## 2026年09月12日のニュース
+
+- [日本で自然と自動運転が解禁されることはない](https://anond.hatelabo.jp/20260911162212)
+- [メルカリ、URLを知っている人だけ買える「限定公開機能」試験提供開始　悪用懸念も](https://ascii.jp/elem/000/004/434/4434123/)
+- [ブルーレイってどうやって観ればいい? 「超かぐや姫!」特装限定版の楽しみ方](https://av.watch.impress.co.jp/docs/topic/2140311.html)
+- [生成AI以前と以後でエンジニアの文章はどう変わったのか: Qiitaの7万記事を数えてみた話](https://nyosegawa.com/posts/qiita-writing-before-after-ai/)
+- [グラボ高騰止まらず、「NVIDIA GeForce RTX 5090」はついに100万円を超え始める。“さらなるグラボ値上げ”を予告するショップも - AUTOMATON](https://automaton-media.com/articles/newsjp/20260911-466913/)
+
+---
+
 ## 2026年09月11日のニュース
 
 - [人生をあきらめたら希死念慮がなくなった](https://anond.hatelabo.jp/20260910154808)
