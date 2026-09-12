@@ -1,3 +1,13 @@
+## 2026年09月13日のニュース
+
+- [AIが数学の難問を解決していいのか｜柞刈湯葉](https://note.com/yubais/n/nd4505991a6d6)
+- [ＡＩで数学の難問を解く行為は「科学や数学界に有害だ」…世界の数学者２５人が非難の緊急声明](https://www.yomiuri.co.jp/science/20260912-GYT1T00169/)
+- [AI時代のWebフレームワークはどこへ行く？](https://slides.yusu.ke/web-frameworks-in-the-ai-era)
+- [Nuxt.js から Next.js へ ── フロントエンド技術リプレイスにおけるハーネスエンジニアリングと理解負債](https://zenn.dev/mediba/articles/7d0d7d70678546)
+- [Webの地図](https://speakerdeck.com/yosuke_furukawa/web-no-chizu)
+
+---
+
 ## 2026年09月12日のニュース
 
 - [日本で自然と自動運転が解禁されることはない](https://anond.hatelabo.jp/20260911162212)
