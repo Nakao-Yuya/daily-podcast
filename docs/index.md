@@ -1,3 +1,13 @@
+## 2026年09月14日のニュース
+
+- [私はChatGPTですが、はてブとGyazoという「化石の地層」を掘れるようになって異次元に便利になりました｜ゆいせき](https://note.com/yuiseki/n/nabf4625e58bc)
+- [iPhone Duo、中国ですでに100万人超が予約？初期割当20万台との情報も - iPhone Mania](https://iphone-mania.jp/iphone18-605912/)
+- [マイクロソフトがRust言語をC++/C#/TSに並ぶ社内のTier 1言語にしたことを明らかに。Windowsネイティブな社内の開発環境と統合](https://www.publickey1.jp/blog/26/rustcctstier_1.html)
+- [AI開発「減速」をアンソロピックCEOが提案　アルトマン氏・マスク氏らも賛同](https://www.watch.impress.co.jp/docs/news/2140440.html)
+- [テーブルの created at にサービスのドメインロジックを持たせない - めもるが](https://scrapbox.io/uvb-76/%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB%E3%81%AE_created_at_%E3%81%AB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AE%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%AD%E3%82%B8%E3%83%83%E3%82%AF%E3%82%92%E6%8C%81%E3%81%9F%E3%81%9B%E3%81%AA%E3%81%84)
+
+---
+
 ## 2026年09月13日のニュース
 
 - [AIが数学の難問を解決していいのか｜柞刈湯葉](https://note.com/yubais/n/nd4505991a6d6)
