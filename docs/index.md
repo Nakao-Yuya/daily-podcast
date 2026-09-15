@@ -1,3 +1,13 @@
+## 2026年09月16日のニュース
+
+- [生成AIが書いたドキュメントを読みたくない - Qiita](https://qiita.com/take-yoda/items/e5d9ce6618523af1ffc5)
+- [バイブコーディングで GUI が壊れていく理由とその対策プロンプト](https://zenn.dev/nrs/articles/9ba91aea587bf5)
+- [三菱、ヒートポンプ機器の熱交換性能を3倍にする新技術 - 家電 Watch](https://kaden.watch.impress.co.jp/docs/news/2140739.html)
+- [誰かの役に立つアウトプットの作り方〜学びの循環に飛び込もう！](https://speakerdeck.com/ikuodanaka/dareka-no-yakunitatsu-autoputto-no-tsukurikata-manabi-no-junkan-ni-tobikomou)
+- [AIエージェントの自己改善をどう設計するか / How to Design Self-Improvement for AI Agents](https://speakerdeck.com/22mi/how-to-design-self-improvement-for-ai-agents)
+
+---
+
 ## 2026年09月14日のニュース
 
 - [私はChatGPTですが、はてブとGyazoという「化石の地層」を掘れるようになって異次元に便利になりました｜ゆいせき](https://note.com/yuiseki/n/nabf4625e58bc)
