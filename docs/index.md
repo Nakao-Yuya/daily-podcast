@@ -1,3 +1,13 @@
+## 2026年09月17日のニュース
+
+- [AIを使っても「自分の文章」に仕上げるためにやっていること - Qiita](https://qiita.com/kskwtnk/items/aa21e7f57feb43e970e0)
+- [Claude Codeで開発期間を2.5か月から1か月に縮めた「ハーネス」の設計手法 - SmartHR Tech Blog](https://tech.smarthr.jp/entry/2026/09/16/110205)
+- [「APIキーは.envに」はもはや通用しない　AIエージェントの“内通者化”をどう防ぐ？](https://atmarkit.itmedia.co.jp/ait/articles/2609/17/news006.html)
+- [人間はどの意思決定を手放せるのか](https://speakerdeck.com/kawasima/ningen-ha-dono-ishi-kettei-o-tebanaseru-no-ka)
+- [Metaが月額239円からのサブスク「Meta One」を発表、Instagramなどの追加機能やAI生成の利用枠拡大を提供](https://gigazine.net/news/20260916-meta-one/)
+
+---
+
 ## 2026年09月16日のニュース
 
 - [生成AIが書いたドキュメントを読みたくない - Qiita](https://qiita.com/take-yoda/items/e5d9ce6618523af1ffc5)
