@@ -1,3 +1,13 @@
+## 2026年09月18日のニュース
+
+- [Claude Codeを「使うほど育つ」AI秘書にするノウハウ](https://speakerdeck.com/minorun365/claude-code-o-tsukau-hodo-sodatsu-ai-hisho-ni-suru-nouhau)
+- [Claude Code「スキル」が凄すぎる…毎日のコピペ指示を“全自動化”する神スキル5選](https://www.sbbit.jp/article/cont1/186367)
+- [オントロジー？ナレッジグラフ？AI時代のデータ基盤用語をざっくり理解する - Qiita](https://qiita.com/yushibats/items/d4e3e0186f4d8eb83874?utm_source=dlvr.it&utm_medium=twitter)
+- [TypeSafeのJevを正しく驚く、それってLLMでできませんか？](https://zenn.dev/nwn/articles/824026c76116e0)
+- [AWS、中東のデータ「復旧不能」と正式発表。バーレーン全域とUAEの1ゾーンが永久喪失](https://joho-todai.com/aws-middle-east-data-permanently-lost/)
+
+---
+
 ## 2026年09月17日のニュース
 
 - [AIを使っても「自分の文章」に仕上げるためにやっていること - Qiita](https://qiita.com/kskwtnk/items/aa21e7f57feb43e970e0)
