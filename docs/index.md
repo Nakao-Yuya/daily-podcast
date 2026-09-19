@@ -1,3 +1,13 @@
+## 2026年09月20日のニュース
+
+- [Jev 図解ガイド](https://jev-guide.take-otani.workers.dev/)
+- [東プレから分割キーボード「REALFORCE RS1」登場｜79キー日本語配列・有線接続 - TALPKEYBOARD BLOG](https://www.talpkeyboard.com/entry/topre-realforcers1-keyboard-info)
+- [全社に OpenCode + LiteLLM を導入してコストを抑えつつ AI 活用を進めている話](https://zenn.dev/jtcc/articles/7e74fef42580a1)
+- [jev-lint: コード中の命名やコメントが嘘になってないかを高速に確認](https://zenn.dev/mizchi/articles/jev-lint-intro)
+- [AIとの対話だけで完成! 広がる“アプリ開発革命” | NHKニュース](https://news.web.nhk/newsweb/na/nd-20260918de50982)
+
+---
+
 ## 2026年09月18日のニュース
 
 - [Claude Codeを「使うほど育つ」AI秘書にするノウハウ](https://speakerdeck.com/minorun365/claude-code-o-tsukau-hodo-sodatsu-ai-hisho-ni-suru-nouhau)
