@@ -1,3 +1,13 @@
+## 2026年09月21日のニュース
+
+- [AIバブルはこうして終わる　金利高と収穫逓減「死の交差」 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUB164ZN0W6A910C2000000/)
+- [iPhone Duoは重すぎる？ Pro Maxを1年使った私が気になったのは、重さよりTouch ID – @tarosite](https://tarosite.net/tech/2026/09/20/iphone-duo-weight-and-touch-id/)
+- [5分でJev入門（すぐ使う） - Qiita](https://qiita.com/Ninagawa123/items/8ec3f5fe18c20fab1b2a)
+- [Jevはサイコロを振らない｜「較正された確率」の意外な落とし穴｜林寛太 Kanta Hayashi](https://note.com/kantahayashiai/n/n4c54eed30787)
+- [GitHub - minorun365/minorun-marp-skill: Marpで登壇スライドを作るための、ストーリー・図・デザインバランスのスキル集と黒地テーマ、検査ツール](https://github.com/minorun365/minorun-marp-skill)
+
+---
+
 ## 2026年09月20日のニュース
 
 - [Jev 図解ガイド](https://jev-guide.take-otani.workers.dev/)
