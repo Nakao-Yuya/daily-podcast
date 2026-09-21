@@ -1,3 +1,13 @@
+## 2026年09月22日のニュース
+
+- [夫がフォルダ名を「2026-09-19」とつけていたので、 「何そのフォルダ名」と（20260919でええやろ、の意味で）言ったら、 「こうすると新しい順に並ぶから便利だよ」と言われた。 そうか……フィンランドでは普通は「19.9.2026」か……。→「yymmddで世界統一すべきシンプルな理由」](https://posfie.com/@petaritape/p/Es0IJEZ)
+- [テックリードとアーキテクトの違い、テックリードとEMの違い - mtx2s’s blog](https://mtx2s.hatenablog.com/entry/2026/09/21/182658)
+- [Claude Codeの Agent view とセッション間通信は使ったほうがいい - じゃあ、おうちで学べる](https://syu-m-5151.hatenablog.com/entry/2026/09/21/104258)
+- [判断特化型AI「Jev」を簡単な具体例でわかりやすく解説！実際に試してみた | DevelopersIO](https://dev.classmethod.jp/articles/jev-guide-with-examples/)
+- [Windows 11 Homeでローカルアカウントを作成する新たな「抜け道」が発見される](https://garumax.com/windows-11-home-local-account-new-workaround)
+
+---
+
 ## 2026年09月21日のニュース
 
 - [AIバブルはこうして終わる　金利高と収穫逓減「死の交差」 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUB164ZN0W6A910C2000000/)
