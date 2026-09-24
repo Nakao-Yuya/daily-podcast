@@ -1,3 +1,13 @@
+## 2026年09月25日のニュース
+
+- [AIに文章を書かせると一番言いたいことが埋もれるので、想定読者と読後感を先に決めさせるSkillを作った - $shibayu36->blog;](https://blog.shibayu36.org/entry/2026/09/24/173000)
+- [みんなJevの話してる。やってないの俺だけ](https://zenn.dev/unsoluble_sugar/articles/jev-system-one-model-intro)
+- [「楽天銀行から数百万が勝手に移動」「残高が0に」……楽天証券のシステム不具合、連休中に発生](https://www.itmedia.co.jp/news/article/2609/24/2000001708/)
+- [はてな匿名ダイアリーは本日で20周年を迎えました - はてラボ 開発者ブログ](https://labo.hatenastaff.com/entry/2026/09/24/150000)
+- [ハーネス設計入門 〜 基礎知識の整理から実務へのステップアップ 〜](https://speakerdeck.com/kinopeee/hanesu-sekkei-nyuumon-kiso-chishiki-no-seiri-kara-jitsumu-heno-suteppu-appu)
+
+---
+
 ## 2026年09月22日のニュース
 
 - [夫がフォルダ名を「2026-09-19」とつけていたので、 「何そのフォルダ名」と（20260919でええやろ、の意味で）言ったら、 「こうすると新しい順に並ぶから便利だよ」と言われた。 そうか……フィンランドでは普通は「19.9.2026」か……。→「yymmddで世界統一すべきシンプルな理由」](https://posfie.com/@petaritape/p/Es0IJEZ)
