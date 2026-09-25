@@ -1,3 +1,13 @@
+## 2026年09月26日のニュース
+
+- [Microsoft、新しい業務向け「Copilot」を発表 ～エージェント機能などを統合／新機能「Home」「Code」「Autopilot」を追加](https://forest.watch.impress.co.jp/docs/news/2143487.html)
+- [業務プロセスをいじっても生産性は上がらない。あるいは業務を良くするテコについて：プロジェクトマジック：オルタナティブ・ブログ](https://blogs.itmedia.co.jp/magic/2026/09/post_157.html)
+- [【結果報告】初めてのAI同人誌、Fable5は「500部刷れ」と言った　#生成AIなんでも展示会レポ｜賢木イオ](https://note.com/studiomasakaki/n/n9bd76032db89)
+- [OpenAIとClaudeのAgent SDKから学ぶAgentの基本構成 - ぷらすのブログ](https://blog.p1ass.com/posts/agent-foundations/)
+- [AI議事録の「誰の発言か分からん」を解決。0.1B「Nemotron 3 Diarization」無償公開](https://pc.watch.impress.co.jp/docs/news/2143200.html)
+
+---
+
 ## 2026年09月25日のニュース
 
 - [AIに文章を書かせると一番言いたいことが埋もれるので、想定読者と読後感を先に決めさせるSkillを作った - $shibayu36->blog;](https://blog.shibayu36.org/entry/2026/09/24/173000)
