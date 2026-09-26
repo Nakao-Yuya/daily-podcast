@@ -1,3 +1,13 @@
+## 2026年09月27日のニュース
+
+- [ローカルLLMで使えるWeb検索まとめ｜npaka](https://note.com/npaka/n/n1d86b2196515)
+- [【検証】Google AI Pro 限界まで使い倒したらめちゃくちゃお得 説｜ぶるぺん/blue.pen5805](https://note.com/blue_pen5805/n/nb124b104c28b)
+- [「テレワーク廃止で人が辞める」「争奪戦が激しいITエンジニア職」、変革期を生き抜く組織の選択](https://atmarkit.itmedia.co.jp/ait/articles/2609/26/news010.html)
+- [ナッツを多く食べる人、認知テストで高成績の傾向　豪州チームが1700人以上を分析](https://www.itmedia.co.jp/news/article/2609/26/2000001711/)
+- [人類が滅びる？高まるAI脅威論 国内の研究者の見方は | NHKニュース](https://news.web.nhk/newsweb/na/nd-20260924de52153)
+
+---
+
 ## 2026年09月26日のニュース
 
 - [Microsoft、新しい業務向け「Copilot」を発表 ～エージェント機能などを統合／新機能「Home」「Code」「Autopilot」を追加](https://forest.watch.impress.co.jp/docs/news/2143487.html)
