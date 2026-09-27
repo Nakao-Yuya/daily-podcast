@@ -1,3 +1,13 @@
+## 2026年09月28日のニュース
+
+- [はてブコメントで攻撃的なやつをJevで隠す拡張機能 - 本しゃぶり](https://honeshabri.hatenablog.com/entry/hatebu-veil)
+- [「新しいドパ」フラッシュ暗算のように次々本の文章を出していく「PSVR」という読書手法を、AIを使って再現したらなかなか読める](https://togetter.com/li/2751150)
+- [リモートワークを続けるためにやるべきこと - モヒカン技術ブログ](https://blog.pinkumohikan.com/entry/for-continuing-to-remote-work)
+- [ChatGPTの英語学習効果とは？ 最新の研究や依存の注意点も紹介・おすすめの学習ロードマップも完全解説 - ポリグロットライフ | 言語まなび∞ラボ](https://www.sunafuki.com/entry/chatgpt_English)
+- [ChatGPTに「この文献にあります」と言われて目を通したが書いてなかったのでそう伝えたら「3版以前を読んでませんか？ 4版で追加された記述です」と正論で殴られた話](https://togetter.com/li/2751313)
+
+---
+
 ## 2026年09月27日のニュース
 
 - [ローカルLLMで使えるWeb検索まとめ｜npaka](https://note.com/npaka/n/n1d86b2196515)
