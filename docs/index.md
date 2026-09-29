@@ -1,3 +1,13 @@
+## 2026年09月29日のニュース
+
+- [Codexを使うなら、/goalとサイドチャットを押さえておきたい - じゃあ、おうちで学べる](https://syu-m-5151.hatenablog.com/entry/2026/09/27/120017)
+- [Yahoo!きっずサービス終了のお知らせ - Yahoo!きっずからのお知らせ - Yahoo!きっず](https://kids.yahoo.co.jp/info/archives/20260928_1.html)
+- [タイムズカーWebサイトへの不正アクセスについてまとめてみた - piyolog](https://piyolog.hatenadiary.jp/entry/2026/09/28/214857)
+- [NRアプリへの不正アクセスによる会員情報漏えいに関するお詫びとお知らせ|ニッポンレンタカー](https://www.nipponrentacar.co.jp/info/202609.html)
+- [UIの本に「長押しの機能はユーザが気づきにくいよ」って書いてあって、ふ～んって思いながら部屋の照明のボタン長押ししたら、白からオレンジになった「お前もかよ」](https://togetter.com/li/2751548)
+
+---
+
 ## 2026年09月28日のニュース
 
 - [はてブコメントで攻撃的なやつをJevで隠す拡張機能 - 本しゃぶり](https://honeshabri.hatenablog.com/entry/hatebu-veil)
