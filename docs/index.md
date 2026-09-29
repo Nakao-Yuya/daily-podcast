@@ -1,3 +1,13 @@
+## 2026年09月30日のニュース
+
+- [IIJ、新人エンジニア向け研修教材を無料公開　Web技術の基礎から生成AI活用まで20講義超](https://www.itmedia.co.jp/news/article/2609/29/2000001854/)
+- [「タイムズカーWebサイト」への不正アクセスに関する調査結果および今後の対応について（第3報） | カーシェアリングのタイムズカー](https://share.timescar.jp/news/2026/0929/1816.html)
+- [免許証画像が漏れると何が“ヤバい”のか　タイムズカーで最大約660万件の個人情報漏えいで考えられる「3つのリスク」](https://www.itmedia.co.jp/mobile/articles/2609/29/news085.html)
+- [無料でJev互換の小型高速意思決定モデル「Jeff」、ローカル環境で約22～28ミリ秒と爆速](https://gigazine.net/news/20260929-jeff/)
+- [「Microsoft Learn」の公開ドキュメントリポジトリ、多くが年内に終了へ／廃止対象では「GitHub」経由の修正提案ができなくなる](https://forest.watch.impress.co.jp/docs/news/2143945.html)
+
+---
+
 ## 2026年09月29日のニュース
 
 - [Codexを使うなら、/goalとサイドチャットを押さえておきたい - じゃあ、おうちで学べる](https://syu-m-5151.hatenablog.com/entry/2026/09/27/120017)
