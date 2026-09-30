@@ -1,3 +1,13 @@
+## 2026年10月01日のニュース
+
+- [GitHub - nanaism/yomiyasu: AI生成された文章の不自然さを取り除き、人間にとって自然な日本語へ書き直すためのAgent Skill](https://github.com/nanaism/yomiyasu)
+- [Gemini 4 Argon: our next era of frontier intelligence](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/)
+- [AI-Slopな日本語を構造レベルで読みやすくするSkill『yomiyasu（よみやす）』を作りました](https://zenn.dev/algoartis/articles/0b1c731881b25c)
+- [タイムズカー情報漏洩 集団訴訟｜参加希望者受付中](https://timescar-lawsuit.com/)
+- [凸凹育児とエンジニアを両方やるということ - yprestoの非技術ブログ](https://ypresto.hatenablog.jp/entry/2026/09/30/233500)
+
+---
+
 ## 2026年09月30日のニュース
 
 - [IIJ、新人エンジニア向け研修教材を無料公開　Web技術の基礎から生成AI活用まで20講義超](https://www.itmedia.co.jp/news/article/2609/29/2000001854/)
