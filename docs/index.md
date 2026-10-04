@@ -1,3 +1,13 @@
+## 2026年10月05日のニュース
+
+- [6年通った博士課程を、退学しました。 --社会人博士を志すあなたに、先に渡しておきたいこと--｜清水 啓太郎 / Keitaro Shimizu](https://note.com/keitaro_shimizu/n/n1cd34c93e432)
+- [AI時代に、次のベテランエンジニアは育つのか｜柴田 芳樹](https://note.com/yoshiki_shibata/n/n185f3d9e13bc)
+- [30年かけて育てた自動耳コピ「WaoN」がiOS/Macアプリに！AI時代にあえて挑む、0倍速でも音が鳴り続ける「わおん」](https://www.dtmstation.com/archives/80372.html)
+- [JSONはシンプルで明快な仕様が魅力ですが、そんなJSONでも微妙な実装差異が生じる罠がいくつかあります。本稿はこうした機微を実装の比較を通](https://zenn.dev/qnighy/articles/json-ambiguity)
+- [日経にサイバー攻撃　情報漏洩、不審メール9000件送信 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUD02B5F0S6A001C2000000/)
+
+---
+
 ## 2026年10月01日のニュース
 
 - [GitHub - nanaism/yomiyasu: AI生成された文章の不自然さを取り除き、人間にとって自然な日本語へ書き直すためのAgent Skill](https://github.com/nanaism/yomiyasu)
