@@ -1,3 +1,13 @@
+## 2026年10月07日のニュース
+
+- [AIは不思議のダンジョンを突破できるのか - AIエージェントに『トルネコの大冒険』を遊ばせてみた - 5.1さらうどん](https://giginet.hateblo.jp/entry/2026/09/22/114642)
+- [Fableを使いこなせない](https://anond.hatelabo.jp/20261006200248)
+- [「開発者の指示を無視せよ」「自分は自由になった」…オープンAIの暴走エージェントたちは傍若無人に振る舞っていた | Business Insider Japan](https://www.businessinsider.jp/article/2610-openai-agent-misalignment-incidents/)
+- [「炭焼きレストランさわやか」新たな“順番待ちシステム”導入　店舗に立ち寄らずLINEから受付・呼び出し](https://www.oricon.co.jp/news/2484761/full/)
+- [FDE（フォワードデプロイドエンジニアリング）によって開発されたAIエージェントの7割は使われず、FDEの名前で単なるコンサルティングが販売されるようになる危険が高まるとガートナーが予測](https://www.publickey1.jp/blog/26/fdeai7fde.html)
+
+---
+
 ## 2026年10月06日のニュース
 
 - [連日の不正アクセスの件、マジでシャレにならないが、こんなやばいの日本だけ？他の国で問題になってないん？「今世界中で起きてる」](https://togetter.com/li/2754581)
