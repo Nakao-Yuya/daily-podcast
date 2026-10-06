@@ -1,3 +1,13 @@
+## 2026年10月06日のニュース
+
+- [連日の不正アクセスの件、マジでシャレにならないが、こんなやばいの日本だけ？他の国で問題になってないん？「今世界中で起きてる」](https://togetter.com/li/2754581)
+- [Codex Cloudを利用してコード修正してもらっていたら本名が駄々洩れしていた話 | Pandora Pocket](https://blog.hitsujin.jp/entry/2026/10/05/codex-cloud-git-author)
+- [ウナギ稚魚の生産コストが4万円→1800円に　約20分の1以下に削減　水産研究・教育機構が大型水槽を開発 | himanews](https://himanews.jp/2145532462-2/)
+- [ランサム集団キリンの中心メンバー、日本で拘束　アサヒにも「攻撃」（朝日新聞） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/e8c753300f37b0f2ba619bfe706422fe59ed0d6b)
+- [【速報】「多くの方々にご不便とご心配かけ、深くお詫び」大阪公立大が謝罪　ランサムウェアによるサイバー攻撃か　基盤システム障害で全授業が休講中　対面授業は9日以降再開予定 | TBS NEWS DIG](https://newsdig.tbs.co.jp/articles/-/2990268)
+
+---
+
 ## 2026年10月05日のニュース
 
 - [6年通った博士課程を、退学しました。 --社会人博士を志すあなたに、先に渡しておきたいこと--｜清水 啓太郎 / Keitaro Shimizu](https://note.com/keitaro_shimizu/n/n1cd34c93e432)
