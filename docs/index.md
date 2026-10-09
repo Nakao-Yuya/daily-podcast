@@ -1,3 +1,13 @@
+## 2026年10月10日のニュース
+
+- [アメリカ 運転免許証などの情報 1億5000万件以上が漏えいか | NHKニュース](https://news.web.nhk/newsweb/na/nd-20261009de57294)
+- [不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構](https://www.ipa.go.jp/security/security-alert/2026/alert20261009.html)
+- [【速報】AIで調べた判例実在せず書籍絶版](https://www.47news.jp/15060645.html)
+- [「秀丸エディタ」v9.59が公開 ～Windows XP/Vistaのサポートを終了／Windows 11の「テキスト カーソル インジケーター」に対応、カーソルが見やすく](https://forest.watch.impress.co.jp/docs/news/2146950.html)
+- [Deno is joining Cloudflare | Deno](https://deno.com/blog/cloudflare)
+
+---
+
 ## 2026年10月09日のニュース
 
 - [さくらインターネット、GPU専有によりトークン消費量を気にせず定額で利用できる「さくらのAI Engineプライベートエディション」提供開始を発表](https://www.publickey1.jp/blog/26/gpuai_engine.html)
