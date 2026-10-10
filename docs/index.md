@@ -1,3 +1,13 @@
+## 2026年10月11日のニュース
+
+- [国内で相次ぐ不正アクセスに対する注意喚起についてまとめてみた - piyolog](https://piyolog.hatenadiary.jp/entry/2026/10/11/004353)
+- [SQLite 本体にベクトル検索拡張 vec1 がやってきた](https://zenn.dev/mattn/articles/6e9996319ac099)
+- [日本人の大腸がん、約半数に“腸内細菌の毒素”が関与　40歳以下の発症は7割　東大・阪大が200人を全ゲノム解析](https://www.itmedia.co.jp/news/article/2610/10/2000002035/)
+- [個人情報漏洩が日常になってしまった世界でどうしていくべきか](https://nyosegawa.com/posts/data-leak-era/)
+- [The Register of UNIX® Certified Products](https://www.opengroup.org//openbrand/register/)
+
+---
+
 ## 2026年10月10日のニュース
 
 - [アメリカ 運転免許証などの情報 1億5000万件以上が漏えいか | NHKニュース](https://news.web.nhk/newsweb/na/nd-20261009de57294)
