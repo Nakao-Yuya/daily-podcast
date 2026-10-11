@@ -1,3 +1,13 @@
+## 2026年10月12日のニュース
+
+- [「AIに指示するだけでひとりでそこそこのゲームが作れてしまいます」ゲームクリエイター・堀井雄二氏がAIを使い30分ほどでゲームを作成し、様々な反応が寄せられる](https://togetter.com/li/2756939)
+- [証券口座パスキーの安全性を高めよ！”物理キー”を本格導入した話](https://toruoka.xyz/202610_security_key/)
+- [GPU不要で驚きの精度。リアルタイム多言語文字起こしツール「hayamimi」使ってみましたー。｜ゆいまる‐IT界隈以外でAIを使いまくる2005年生まれ](https://note.com/humble_bobcat51/n/n64602c64db6c)
+- [Opus 5.5のおかげで3Dプリンターを活用できるようになった - Write and Run](https://diary.hatenablog.jp/entry/2026/10/11/204055)
+- [【コピペ卒業】Kindle・電子書籍をPDF化＆OCRするアプリを作りました｜リットン｜電子書籍・Python・生成AIで遊ぶ金融マン](https://note.com/lytton_life/n/n838e58f5aff8)
+
+---
+
 ## 2026年10月11日のニュース
 
 - [国内で相次ぐ不正アクセスに対する注意喚起についてまとめてみた - piyolog](https://piyolog.hatenadiary.jp/entry/2026/10/11/004353)
