@@ -1,3 +1,13 @@
+## 2026年10月16日のニュース
+
+- [当社サイトへの不正アクセスによるお客様情報流出のお詫びとお知らせ｜ソースネクスト](https://www.sourcenext.com/support/i/2026/1015_info/)
+- [連続不正アクセス事案の攻撃手法に関する調査 - JPCERT/CC Eyes](https://blogs.jpcert.or.jp/ja/2026/10/web_api_attacks.html)
+- [国内で相次ぐWebシステムからの情報漏えい～ラックの観測から見える変化と、企業が今とるべき対策 | LAC WATCH](https://www.lac.co.jp/lacwatch/alert/20261015_004996.html)
+- [ソースネクスト、最大2251万件の情報流出　パスワード再設定を](https://www.watch.impress.co.jp/docs/news/2148547.html)
+- [ワールドガチャ｜架空の町をガチャで作ってマンガの背景に](https://tools.oyasumi-gamedev.com/worldgacha/)
+
+---
+
 ## 2026年10月12日のニュース
 
 - [「AIに指示するだけでひとりでそこそこのゲームが作れてしまいます」ゲームクリエイター・堀井雄二氏がAIを使い30分ほどでゲームを作成し、様々な反応が寄せられる](https://togetter.com/li/2756939)
