@@ -1,3 +1,13 @@
+## 2026年10月18日のニュース
+
+- [ソースネクスト　暗号化されていないパスワードが流出した理由とは（山口健太） - エキスパート - Yahoo!ニュース](https://news.yahoo.co.jp/expert/articles/b3e710c60d79d276a00321906fa87ac9243f5530)
+- [亡くなった声優の声、AIでの再現は原則禁止　日俳連が新指針](https://japan.cnet.com/article/35253656/)
+- [GitHub - google-research/harness2](https://github.com/google-research/harness2)
+- [AI駆動PMの組織でのはじめかた｜すぅ | AI駆動PM](https://note.com/suh_sunaneko/n/n23ed6981ff6a)
+- [Linuxカーネルの深刻な脆弱性「PwnEscape」（CVE-2026-99999）、ゲストの仮想マシンからホスト側Linux OSに不正なコードを実行できる可能性](https://www.publickey1.jp/blog/26/linuxpwnescapecve-2026-99999linux_os.html)
+
+---
+
 ## 2026年10月16日のニュース
 
 - [当社サイトへの不正アクセスによるお客様情報流出のお詫びとお知らせ｜ソースネクスト](https://www.sourcenext.com/support/i/2026/1015_info/)
