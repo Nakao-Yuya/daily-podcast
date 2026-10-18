@@ -1,3 +1,13 @@
+## 2026年10月19日のニュース
+
+- [変体仮名一覧表](https://cid.ninjal.ac.jp/kana/list/)
+- [iOS 27にしてからiPhoneの充電がもたない…。原因は「あの設定」だった | ライフハッカー・ジャパン](https://www.lifehacker.jp/article/2610-ios27-battery-drain-connection-assist/)
+- [リーダーシップなき越境は組織を壊す｜TakayukiSaruta](https://note.com/srt_taka/n/nff6c2d40c11b)
+- [『コミックシーモア』サービス再開の見通し立たず「正確な再開日時をお伝えすることが困難な状況です」（オリコン） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/df7e374ecdb58831f4b5f497fdcf5407c9af4e36)
+- [スマホの「充電80％止めで長持ち」「挿しっぱなし充電NG」は本当？　実験で見えた意外な結果](https://www.itmedia.co.jp/mobile/articles/2610/18/news002.html)
+
+---
+
 ## 2026年10月18日のニュース
 
 - [ソースネクスト　暗号化されていないパスワードが流出した理由とは（山口健太） - エキスパート - Yahoo!ニュース](https://news.yahoo.co.jp/expert/articles/b3e710c60d79d276a00321906fa87ac9243f5530)
