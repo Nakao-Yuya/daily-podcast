@@ -1,3 +1,13 @@
+## 2026年10月23日のニュース
+
+- [PHP 8.5.12の緊急リリースにpixivはどう対応したか - pixiv inside](https://inside.pixiv.blog/2026/10/22/193321)
+- [デジタル庁HPの問い合わせ内容漏洩か　最大1万3000件以上](https://news.tv-asahi.co.jp/news_economy/articles/000542237.html)
+- [【速報】中国政府系がAIで攻撃、MSが発表](https://www.47news.jp/15123221.html)
+- [これがPHPの脆弱性を呟いてしまった人か。マジで全世界をデスマに叩き落とした人として後世に語り継がれると思う](https://posfie.com/@golden_haniwa/p/LQ90sis)
+- [PHP脆弱性“PoCフライング公開”の経緯、支援財団が公表　混乱広げた企業を名指しで批判](https://www.itmedia.co.jp/news/article/2610/22/2000002525/)
+
+---
+
 ## 2026年10月22日のニュース
 
 - [修正予告されたPHPの2件の深刻な脆弱性についてまとめてみた - piyolog](https://piyolog.hatenadiary.jp/entry/2026/10/21/174516)

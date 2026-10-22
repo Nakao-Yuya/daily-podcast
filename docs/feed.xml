@@ -6,11 +6,11 @@
     <link>https://Nakao-Yuya.github.io/daily-podcast/</link>
     <language>ja</language>
     <item>
-      <title>2026年10月22日のニュース</title>
-      <description><![CDATA[<h2>2026年10月22日のニュース引用元</h2><ul><li><a href="https://piyolog.hatenadiary.jp/entry/2026/10/21/174516">修正予告されたPHPの2件の深刻な脆弱性についてまとめてみた - piyolog</a></li><li><a href="https://blogs.itmedia.co.jp/agile/2026/10/php2shell_cve_2026_109618_panic.html">【PHP脆弱性php2shell】パッチは21:59に公開済み。「23:15から乗っ取り」「15分でAIが攻撃コード？」は本当か、自分のVPSのログで検証（CVE-2026-109618／109619）：秋山大志のそれとりあえず作ってみようか。：オルタナティブ・ブログ</a></li><li><a href="https://togetter.com/li/2761260">3年前に退職したところから「なんでPHPで作ったんだ！今すぐ来い！」って電話あったけど、どこに相談したらいいの？労基？→あるエンジニアに起きた災難に「笑えない」</a></li><li><a href="https://togetter.com/li/2761175">これが視界に入った瞬間、1秒以内に「AIだ！」と思ったけど我々は一体何に「AIっぽさ」を感じているのか→文字や色味以外にも判別ポイントがある？</a></li><li><a href="https://www.itmedia.co.jp/news/article/2610/22/2000002480/">PHPの「緊急」レベルの脆弱性、開発元が修正バージョン公開　「直ちにアップデートを」</a></li></ul>]]></description>
-      <enclosure url="https://Nakao-Yuya.github.io/daily-podcast/audio/episode_20261022.mp3" type="audio/mpeg" />
-      <pubDate>Wed, 21 Oct 2026 22:52:22 -0000</pubDate>
-      <guid>https://Nakao-Yuya.github.io/daily-podcast/audio/episode_20261022.mp3</guid>
+      <title>2026年10月23日のニュース</title>
+      <description><![CDATA[<h2>2026年10月23日のニュース引用元</h2><ul><li><a href="https://inside.pixiv.blog/2026/10/22/193321">PHP 8.5.12の緊急リリースにpixivはどう対応したか - pixiv inside</a></li><li><a href="https://news.tv-asahi.co.jp/news_economy/articles/000542237.html">デジタル庁HPの問い合わせ内容漏洩か　最大1万3000件以上</a></li><li><a href="https://www.47news.jp/15123221.html">【速報】中国政府系がAIで攻撃、MSが発表</a></li><li><a href="https://posfie.com/@golden_haniwa/p/LQ90sis">これがPHPの脆弱性を呟いてしまった人か。マジで全世界をデスマに叩き落とした人として後世に語り継がれると思う</a></li><li><a href="https://www.itmedia.co.jp/news/article/2610/22/2000002525/">PHP脆弱性“PoCフライング公開”の経緯、支援財団が公表　混乱広げた企業を名指しで批判</a></li></ul>]]></description>
+      <enclosure url="https://Nakao-Yuya.github.io/daily-podcast/audio/episode_20261023.mp3" type="audio/mpeg" />
+      <pubDate>Thu, 22 Oct 2026 22:50:24 -0000</pubDate>
+      <guid>https://Nakao-Yuya.github.io/daily-podcast/audio/episode_20261023.mp3</guid>
     </item>
   </channel>
 </rss>
