@@ -1,3 +1,13 @@
+## 2026年10月24日のニュース
+
+- [パナソニックHD、利用禁止の生成AIに従業員らの情報送出　33万人分 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUF237Z60T21C26A0000000/)
+- [PHP2Shellへの対応を振り返って - コドモン Product Team Blog](https://tech.codmon.com/entry/2026/10/23/173909)
+- [「Mermaid」図を描けるMarkdownエディター「MerMark Editor」が日本語化／有志の貢献により、v0.8.1から](https://forest.watch.impress.co.jp/docs/news/2150751.html)
+- [タイムズカー免許証画像流出、「お見舞い」1人3000円　146万人が対象 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUC231CP0T21C26A0000000/)
+- [Using Claude to reduce the attack surface of code](https://www.anthropic.com/research/attack-surface-reduction)
+
+---
+
 ## 2026年10月23日のニュース
 
 - [PHP 8.5.12の緊急リリースにpixivはどう対応したか - pixiv inside](https://inside.pixiv.blog/2026/10/22/193321)
