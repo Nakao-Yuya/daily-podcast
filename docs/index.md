@@ -1,3 +1,13 @@
+## 2026年10月25日のニュース
+
+- [JSがこんなに減る！ HTML・CSS最新技術2026](https://ics-ikeda.github.io/261024_vuefes_2026/)
+- [「HTTP2Shell」CVE-2026-111497、Node.js・Python・Bun・Envoyに影響 Brotliの重大脆弱性と修正版を確認|セキュリティニュースのセキュリティ対策Lab](https://rocket-boys.co.jp/security-measures-lab/brotli_cve-2026-111497_http2shell_20261024/)
+- [家族の代理で薬を貰いに行ったら、「ご本人のマイナンバーカードを提出して暗証番号をお願いします」と言われ、本人以外に要求することを疑問視した投稿が波紋を呼ぶ](https://togetter.com/li/2762295)
+- [みんなはどのダークパターン広告が好き？ - orangestar2](https://orangestar2.hatenadiary.com/entry/2026/10/23/163042)
+- [ＧＭＯの「能動的サイバー防御」緊急要請、政府関係者「求めに応じ発動決める制度ではない」](https://www.yomiuri.co.jp/politics/20261024-GYT1T00257/)
+
+---
+
 ## 2026年10月24日のニュース
 
 - [パナソニックHD、利用禁止の生成AIに従業員らの情報送出　33万人分 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUF237Z60T21C26A0000000/)
