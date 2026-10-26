@@ -1,3 +1,13 @@
+## 2026年10月27日のニュース
+
+- [AIが答えを出す時代に、ヒトは何を学ぶのか？ この問いに応える3冊](https://dain.cocolog-nifty.com/myblog/2026/10/post-822dc0.html)
+- [Apple、iPad miniに史上最大のアップデートを導入](https://www.apple.com/jp/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/)
+- [アップル、薄さ5.4mmでOLED搭載の新「iPad mini」発表、11万9800円～](https://k-tai.watch.impress.co.jp/docs/news/2151317.html)
+- [楽天トラベルに不正アクセス、顧客情報260万件流出か　クレカ3万件も - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUC2686T0W6A021C2000000/)
+- [有機ELの新型「iPad mini」発表　A20 Pro、IP67対応、8.5型に大型化して11万9800円から](https://www.itmedia.co.jp/pcuser/articles/2610/26/news081.html)
+
+---
+
 ## 2026年10月25日のニュース
 
 - [JSがこんなに減る！ HTML・CSS最新技術2026](https://ics-ikeda.github.io/261024_vuefes_2026/)
