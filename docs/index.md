@@ -1,3 +1,13 @@
+## 2026年10月28日のニュース
+
+- [公開された情報と氏名など同一の人物、ＧＭＯクラウドサービスの利用「一度もない」](https://www.yomiuri.co.jp/national/20261027-GYT1T00367/)
+- [GMO、なんでそんなに嫌われているの？→ダークパターン、対応の悪さ、同業者からの悪評と集まった反応がまるでGMOのWikiのよう](https://togetter.com/li/2763425)
+- [スライド作成入門_2024.indd](https://home.riise.hiroshima-u.ac.jp/~ten/slide_20240328.pdf?utm_source=chatgpt.com)
+- [GMO、不正アクセス実行犯の手がかりに懸賞金　1億5000万円規模](https://www.itmedia.co.jp/news/article/2610/27/2000002642/)
+- [3回つくってわかった、 定期実行ジョブ基盤の本質情報](https://speakerdeck.com/takai/i-built-a-scheduled-job-platform-three-times-and-now-i-know-the-essential-truths)
+
+---
+
 ## 2026年10月27日のニュース
 
 - [AIが答えを出す時代に、ヒトは何を学ぶのか？ この問いに応える3冊](https://dain.cocolog-nifty.com/myblog/2026/10/post-822dc0.html)
