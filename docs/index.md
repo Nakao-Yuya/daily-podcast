@@ -1,3 +1,13 @@
+## 2026年10月29日のニュース
+
+- [pfpdf — Markdown から、印刷品質の PDF へ](https://pfpdf.preferred.tech/ja/)
+- [MarkdownからきれいなPDFを作るCLIツールpfpdfを公開しました｜株式会社Preferred Networks](https://www.preferred.jp/ja/blog/tech/1798)
+- [Gemini 4 Carbon: our next frontier model](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/)
+- [AI時代のシニアエンジニアとは](https://speakerdeck.com/yosuke_furukawa/ai-jidai-no-shinia-enjinia-toha)
+- [Apple、初のタッチ対応「MacBook Pro」発表　新型OLED搭載、国内価格は49万9800円から](https://www.itmedia.co.jp/news/article/2610/29/2000002689/)
+
+---
+
 ## 2026年10月28日のニュース
 
 - [公開された情報と氏名など同一の人物、ＧＭＯクラウドサービスの利用「一度もない」](https://www.yomiuri.co.jp/national/20261027-GYT1T00367/)
