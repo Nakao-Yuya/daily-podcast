@@ -1,3 +1,13 @@
+## 2026年10月30日のニュース
+
+- [プライム会員なら実質無料！新世代AIアシスタント「Alexa+」と新型Echoをチェックしてきた](https://pc.watch.impress.co.jp/docs/news/2152255.html)
+- [1週間以上メンテだった『神撃のバハムート』、「PHP脆弱性」対応が無事完了。“複数世代にわたる大幅なバージョンアップ”を経て、老舗ゲームが大改修 - AUTOMATON](https://automaton-media.com/articles/newsjp/20261029-476529/)
+- [GitHub - tester-army/e2e: Next generation e2e testing framework for web and mobile apps.](https://github.com/tester-army/e2e)
+- [必要最低限の自分専用アプリをAIで作る](https://iwashi.co/2026/10/29/build-my-app)
+- [歌手・矢野顕子氏「音楽のプロとは思えない質問ですいませんが、CDをiPhoneやPCに取り込む方法を教えてください」→専用レコーダーやiTunesなど様々な方法が集まる](https://togetter.com/li/2764323)
+
+---
+
 ## 2026年10月29日のニュース
 
 - [pfpdf — Markdown から、印刷品質の PDF へ](https://pfpdf.preferred.tech/ja/)
